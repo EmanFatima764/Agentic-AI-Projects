@@ -1,0 +1,8 @@
+playwright
+streamlit 
+gspread 
+google-auth
+pandas
+python-dotenv
+openpyxl
+google-genai

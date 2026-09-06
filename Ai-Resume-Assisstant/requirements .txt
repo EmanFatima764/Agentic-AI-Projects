@@ -1,0 +1,6 @@
+streamlit==1.63.0
+pypdf==6.16.2
+requests
+
+
+# Force rebuild
